@@ -17,3 +17,5 @@
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?style=flat-square&logo=youtube)](https://www.youtube.com/playlist?list=PLJRGMao4zHQhQAoqFgzJ4F_OefgMSfhAo)
 https://www.youtube.com/playlist?list=PLJRGMao4zHQhQAoqFgzJ4F_OefgMSfhAo
 
+![image](https://github.com/user-attachments/assets/24694843-a919-484e-bc6d-4755352e446c)
+
