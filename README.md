@@ -17,7 +17,8 @@
 ### LINK YOUTUBE :
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?style=flat-square&logo=youtube)](https://www.youtube.com/playlist?list=PLJRGMao4zHQhQAoqFgzJ4F_OefgMSfhAo)
 https://www.youtube.com/playlist?list=PLJRGMao4zHQhQAoqFgzJ4F_OefgMSfhAo
-
+### ▶️ Video đầy đủ:
+[![Watch the video](https://i.ytimg.com/vi/Cgk2Mn9StGU/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBaKEswDw==&rs=AOn4CLBVWzckxjOrXTgttpWQCiNw7wg-IQ)](https://www.youtube.com/watch?v=Cgk2Mn9StGU&t=795s)
 
 ### Demo
 
